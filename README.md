@@ -36,9 +36,11 @@ L2 regularization penalizes large coefficients and helps reduce overfitting whil
            0       0.87      0.83      0.85       125
            1       0.86      0.89      0.87       145
 
-    accuracy                           0.86       270
-   macro avg       0.86      0.86      0.86       270
-weighted avg       0.86      0.86      0.86       270
+
+
+    accuracy          -        -     0.86       270
+   macro avg       0.86     0.86     0.86       270
+weighted avg       0.86     0.86     0.86       270
 
 ## Business Impact
 The model helps HR teams identify employees likely to resign,
