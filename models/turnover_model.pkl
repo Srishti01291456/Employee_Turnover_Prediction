@@ -1,1 +1,8 @@
+import pickle
 
+# best_model = your final trained Logistic Regression model
+
+with open("turnover_model.pkl", "wb") as file:
+    pickle.dump(best_model, file)
+
+print("Model saved successfully!")
