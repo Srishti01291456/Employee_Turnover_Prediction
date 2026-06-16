@@ -28,19 +28,8 @@ proactive retention measures.
 
 ## Results
 L2 regularization penalizes large coefficients and helps reduce overfitting while retaining all features.
+<img width="457" height="163" alt="image" src="https://github.com/user-attachments/assets/ebd1eb5e-7d19-4a73-b382-848674ea50c2" />
 
-
-
-                   precision    recall  f1-score   support
-
-           0       0.87      0.83      0.85       125
-           1       0.86      0.89      0.87       145
-
-
-
-    accuracy          -        -     0.86       270
-   macro avg       0.86     0.86     0.86       270
-weighted avg       0.86     0.86     0.86       270
 
 ## Business Impact
 The model helps HR teams identify employees likely to resign,
